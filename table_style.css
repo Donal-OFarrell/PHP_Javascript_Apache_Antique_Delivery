@@ -1,0 +1,27 @@
+
+table{
+    width:100%;
+    border-collapse: collapse; /*this overrides border-radius- originally I wanted a rounded table too- but it looked fine so I abandoned the idea. */
+
+    
+}
+
+td, th{
+    border-style: solid;
+    border-color:rgb(25,123,135); 
+    font-size: 0.7rem;
+}
+
+button{
+    border-color:rgb(25,123,135);
+    border-width: 0.2rem;
+    font-size: 0.7rem;
+    background-color: rgb(25,123,135,0.2);
+    
+}
+
+button:hover{ /*I originally saw this on a youtube tutorial, then it was brought up in lectures. */
+    background-color:rgb(25,123,135);
+    color: white;
+}
+            
