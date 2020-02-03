@@ -2,7 +2,7 @@
 College Project 
 A PHP/JavaScript project that interfaces with an Apache server via SQL queries to display info on an antique delivery company's orders. 
 
-Fpr each page, nn intial PDO query collates the data into PHP array(s).
+For each page, nn intial PDO query collates the data into PHP array(s).
 This PHP arrays are then converted to javascript arrays, and the webpage is manipulated from these arrays in response to user input.
 
 Index.php:
